@@ -1,0 +1,156 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/PC/Desktop/p2p exp/p2p_Client/StandardDef.h
+
+C:/Users/PC/Desktop/p2p exp/p2p_Client/commend.cpp
+cstdio
+-
+commend.h
+C:/Users/PC/Desktop/p2p exp/p2p_Client/commend.h
+
+C:/Users/PC/Desktop/p2p exp/p2p_Client/commend.h
+vector
+-
+winsock2.h
+-
+StandardDef.h
+C:/Users/PC/Desktop/p2p exp/p2p_Client/StandardDef.h
+commend_list.h
+C:/Users/PC/Desktop/p2p exp/p2p_Client/commend_list.h
+
+C:/Users/PC/Desktop/p2p exp/p2p_Client/commend_list.cpp
+cstring
+-
+sstream
+-
+file_hash.h
+C:/Users/PC/Desktop/p2p exp/p2p_Client/file_hash.h
+commend_list.h
+C:/Users/PC/Desktop/p2p exp/p2p_Client/commend_list.h
+sharedFileLibrary.h
+C:/Users/PC/Desktop/p2p exp/p2p_Client/sharedFileLibrary.h
+
+C:/Users/PC/Desktop/p2p exp/p2p_Client/commend_list.h
+StandardDef.h
+C:/Users/PC/Desktop/p2p exp/p2p_Client/StandardDef.h
+vector
+-
+string
+-
+
+C:/Users/PC/Desktop/p2p exp/p2p_Client/file_hash.cpp
+file_hash.h
+C:/Users/PC/Desktop/p2p exp/p2p_Client/file_hash.h
+
+C:/Users/PC/Desktop/p2p exp/p2p_Client/file_hash.h
+cstdint
+-
+fstream
+-
+sha1.h
+C:/Users/PC/Desktop/p2p exp/p2p_Client/sha1.h
+
+C:/Users/PC/Desktop/p2p exp/p2p_Client/link.cpp
+afxres.h
+-
+link.h
+C:/Users/PC/Desktop/p2p exp/p2p_Client/link.h
+
+C:/Users/PC/Desktop/p2p exp/p2p_Client/link.h
+winsock2.h
+-
+StandardDef.h
+C:/Users/PC/Desktop/p2p exp/p2p_Client/StandardDef.h
+
+C:/Users/PC/Desktop/p2p exp/p2p_Client/main.cpp
+iostream
+-
+pthread.h
+-
+p2p_c.h
+C:/Users/PC/Desktop/p2p exp/p2p_Client/p2p_c.h
+
+C:/Users/PC/Desktop/p2p exp/p2p_Client/p2p_c.cpp
+iostream
+-
+pthread.h
+-
+unistd.h
+-
+p2p_c.h
+C:/Users/PC/Desktop/p2p exp/p2p_Client/p2p_c.h
+
+C:/Users/PC/Desktop/p2p exp/p2p_Client/p2p_c.h
+link.h
+C:/Users/PC/Desktop/p2p exp/p2p_Client/link.h
+commend.h
+C:/Users/PC/Desktop/p2p exp/p2p_Client/commend.h
+peerResponse.h
+C:/Users/PC/Desktop/p2p exp/p2p_Client/peerResponse.h
+
+C:/Users/PC/Desktop/p2p exp/p2p_Client/peerResponse.cpp
+cstdio
+-
+winsock.h
+-
+fstream
+-
+assert.h
+-
+sstream
+-
+peerResponse.h
+C:/Users/PC/Desktop/p2p exp/p2p_Client/peerResponse.h
+link.h
+C:/Users/PC/Desktop/p2p exp/p2p_Client/link.h
+
+C:/Users/PC/Desktop/p2p exp/p2p_Client/peerResponse.h
+vector
+-
+winsock2.h
+-
+sharedFileLibrary.h
+C:/Users/PC/Desktop/p2p exp/p2p_Client/sharedFileLibrary.h
+
+C:/Users/PC/Desktop/p2p exp/p2p_Client/sha1.cpp
+sha1.h
+C:/Users/PC/Desktop/p2p exp/p2p_Client/sha1.h
+
+C:/Users/PC/Desktop/p2p exp/p2p_Client/sha1.h
+string.h
+-
+stdio.h
+-
+cstdint
+-
+
+C:/Users/PC/Desktop/p2p exp/p2p_Client/sharedFileLibrary.cpp
+io.h
+-
+cstring
+-
+ios
+-
+assert.h
+-
+fstream
+-
+iostream
+-
+peerResponse.h
+C:/Users/PC/Desktop/p2p exp/p2p_Client/peerResponse.h
+
+C:/Users/PC/Desktop/p2p exp/p2p_Client/sharedFileLibrary.h
+stdio.h
+-
+vector
+-
+StandardDef.h
+C:/Users/PC/Desktop/p2p exp/p2p_Client/StandardDef.h
+

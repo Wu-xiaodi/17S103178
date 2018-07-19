@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="p2p_Client"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p2p_Client">
+				<Option output="C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug/p2p_Client.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../mingw32/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 p2p_Client"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p2p_Client/fast">
+				<Option output="C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug/p2p_Client.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../mingw32/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 p2p_Client/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/p2p exp/p2p_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/PC/Desktop/p2p exp/p2p_Client/StandardDef.h">
+			<Option target="p2p_Client"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/p2p exp/p2p_Client/commend.cpp">
+			<Option target="p2p_Client"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/p2p exp/p2p_Client/commend.h">
+			<Option target="p2p_Client"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/p2p exp/p2p_Client/commend_list.cpp">
+			<Option target="p2p_Client"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/p2p exp/p2p_Client/commend_list.h">
+			<Option target="p2p_Client"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/p2p exp/p2p_Client/file_hash.cpp">
+			<Option target="p2p_Client"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/p2p exp/p2p_Client/file_hash.h">
+			<Option target="p2p_Client"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/p2p exp/p2p_Client/link.cpp">
+			<Option target="p2p_Client"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/p2p exp/p2p_Client/link.h">
+			<Option target="p2p_Client"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/p2p exp/p2p_Client/main.cpp">
+			<Option target="p2p_Client"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/p2p exp/p2p_Client/p2p_c.cpp">
+			<Option target="p2p_Client"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/p2p exp/p2p_Client/p2p_c.h">
+			<Option target="p2p_Client"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/p2p exp/p2p_Client/peerResponse.cpp">
+			<Option target="p2p_Client"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/p2p exp/p2p_Client/peerResponse.h">
+			<Option target="p2p_Client"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/p2p exp/p2p_Client/sha1.cpp">
+			<Option target="p2p_Client"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/p2p exp/p2p_Client/sha1.h">
+			<Option target="p2p_Client"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/p2p exp/p2p_Client/sharedFileLibrary.cpp">
+			<Option target="p2p_Client"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/p2p exp/p2p_Client/sharedFileLibrary.h">
+			<Option target="p2p_Client"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/p2p exp/p2p_Client/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
