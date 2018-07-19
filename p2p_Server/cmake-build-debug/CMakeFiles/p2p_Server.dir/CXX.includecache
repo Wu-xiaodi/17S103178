@@ -1,0 +1,92 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/PC/Desktop/p2p exp/p2p_Server/StandardDef.h
+
+C:/Users/PC/Desktop/p2p exp/p2p_Server/commend_list_s.cpp
+cstring
+-
+sstream
+-
+cstdio
+-
+commend_list_s.h
+C:/Users/PC/Desktop/p2p exp/p2p_Server/commend_list_s.h
+
+C:/Users/PC/Desktop/p2p exp/p2p_Server/commend_list_s.h
+StandardDef.h
+C:/Users/PC/Desktop/p2p exp/p2p_Server/StandardDef.h
+vector
+-
+string
+-
+sqlite3.h
+C:/Users/PC/Desktop/p2p exp/p2p_Server/sqlite3.h
+
+C:/Users/PC/Desktop/p2p exp/p2p_Server/link_s.cpp
+afxres.h
+-
+link_s.h
+C:/Users/PC/Desktop/p2p exp/p2p_Server/link_s.h
+StandardDef.h
+C:/Users/PC/Desktop/p2p exp/p2p_Server/StandardDef.h
+
+C:/Users/PC/Desktop/p2p exp/p2p_Server/link_s.h
+winsock2.h
+-
+
+C:/Users/PC/Desktop/p2p exp/p2p_Server/main.cpp
+iostream
+-
+p2p_s.h
+C:/Users/PC/Desktop/p2p exp/p2p_Server/p2p_s.h
+
+C:/Users/PC/Desktop/p2p exp/p2p_Server/p2p_s.cpp
+pthread.h
+-
+cstdio
+-
+sstream
+-
+p2p_s.h
+C:/Users/PC/Desktop/p2p exp/p2p_Server/p2p_s.h
+
+C:/Users/PC/Desktop/p2p exp/p2p_Server/p2p_s.h
+link_s.h
+C:/Users/PC/Desktop/p2p exp/p2p_Server/link_s.h
+sqlite3.h
+C:/Users/PC/Desktop/p2p exp/p2p_Server/sqlite3.h
+thread_pool.h
+C:/Users/PC/Desktop/p2p exp/p2p_Server/thread_pool.h
+StandardDef.h
+C:/Users/PC/Desktop/p2p exp/p2p_Server/StandardDef.h
+commend_list_s.h
+C:/Users/PC/Desktop/p2p exp/p2p_Server/commend_list_s.h
+
+C:/Users/PC/Desktop/p2p exp/p2p_Server/sqlite3.h
+stdarg.h
+-
+
+C:/Users/PC/Desktop/p2p exp/p2p_Server/thread_pool.cpp
+cstdlib
+-
+assert.h
+-
+cstdio
+-
+thread_pool.h
+C:/Users/PC/Desktop/p2p exp/p2p_Server/thread_pool.h
+
+C:/Users/PC/Desktop/p2p exp/p2p_Server/thread_pool.h
+pthread.h
+-
+semaphore.h
+-
+deque
+-
+
